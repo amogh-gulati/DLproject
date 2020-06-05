@@ -140,4 +140,4 @@ def noisy(image, x1,x2,y1,y2):
 	
 	return out
 
-read_csv('ship_train_final_new.csv')
+read_csv('ship_val_final_new.csv')
